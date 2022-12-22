@@ -2,6 +2,6 @@
 
 > Hello, World!
 
-1. 안녕하세요.
+1. Hello there.
 
-2. 와 샌즈 아시는구나 정.말.어.렵.습.니.다.
+2. WoW, Ya know sans aight? It's so hard to beat him.
